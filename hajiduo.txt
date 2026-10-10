@@ -1,7 +1,7 @@
 {
     "urls": [ 
  {
-       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hajimi688/hajimishi/refs/heads/main/one.json",
+       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hajimi688/hajimiyyy/refs/heads/main/api.json",
        "name": "哈基咪📚在线"
       }, 
         {
